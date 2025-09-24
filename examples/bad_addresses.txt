@@ -1,0 +1,4 @@
+# List of flagged or known scam addresses (examples only)
+
+1BitcoinEaterAddressDontSendf59kuE
+0x0000000000000000000000000000000000000000
